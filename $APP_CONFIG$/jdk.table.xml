@@ -1,0 +1,71 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Android API 22 Platform" />
+      <type value="Android SDK" />
+      <version value="openjdk version &quot;1.8.0_45&quot;" />
+      <homePath value="/opt/android-sdk-linux" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///opt/android-sdk-linux/platforms/android-22/android.jar!/" />
+            <root type="simple" url="file:///opt/android-sdk-linux/platforms/android-22/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file:///opt/android-sdk-linux/sources/android-22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" sdk="android-22" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="openjdk version &quot;1.8.0_45&quot;" />
+      <homePath value="/usr/lib64/jvm/java" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/ext/icedtea-sound.jar!/" />
+            <root type="simple" url="jar:///usr/lib64/jvm/java/jre/lib/ext/localedata.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
